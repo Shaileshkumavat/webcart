@@ -1,0 +1,74 @@
+[
+    {
+        "id" : 1,
+        "name" : "mango",
+        "price" : 299,
+        "image":"images/product1.jpg"
+    },
+    {
+        "id" : 1,
+        "name" : "mango",
+        "price" : 299,
+        "image":"images/product2.jpg"
+    },
+    {
+        "id" : 1,
+        "name" : "mango",
+        "price" : 299,
+        "image":"images/product3.jpg"
+    },
+    {
+        "id" : 1,
+        "name" : "mango",
+        "price" : 299,
+        "image":"images/product4.jpg"
+    },
+    {
+        "id" : 1,
+        "name" : "mango",
+        "price" : 299,
+        "image":"images/product5.jpg"
+    },
+    {
+        "id" : 1,
+        "name" : "mango",
+        "price" : 299,
+        "image":"images/product6.jpg"
+    },
+    {
+        "id" : 1,
+        "name" : "mango",
+        "price" : 299,
+        "image":"images/product7.jpg"
+    },
+    {
+        "id" : 1,
+        "name" : "mango",
+        "price" : 299,
+        "image":"images/product8.jpg"
+    },
+    {
+        "id" : 1,
+        "name" : "mango",
+        "price" : 299,
+        "image":"images/product9.jpg"
+    },
+    {
+        "id" : 1,
+        "name" : "mango",
+        "price" : 299,
+        "image":"images/product10.jpg"
+    },
+    {
+        "id" : 1,
+        "name" : "mango",
+        "price" : 299,
+        "image":"images/product11.jpg"
+    },
+    {
+        "id" : 1,
+        "name" : "mango",
+        "price" : 299,
+        "image":"images/product12.jpg"
+    }
+]
