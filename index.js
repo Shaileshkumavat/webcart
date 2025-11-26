@@ -18,7 +18,7 @@ app.get("/", (req,res) => {
     res.send("hi my name is shailesh");
 })
 // MongoDB Connection
-mongoose.connect('mongodb+srv://Shailesh2707:Shailesh2773@webapi.kwvqe.mongodb.net/webApi')
+mongoose.connect('mongodb+srv://:Shailesh2773@webapi.kwvqe.mongodb.net/webApi')
   .then(() => console.log('Connected to MongoDB'))
   .catch(err => console.error('MongoDB connection error:', err));
 
@@ -244,4 +244,5 @@ app.listen(port, (error)=>{
     else{
         console.log("error :" +error)
     }
+
 })
